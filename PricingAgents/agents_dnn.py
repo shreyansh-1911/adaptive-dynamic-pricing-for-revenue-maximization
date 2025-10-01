@@ -247,4 +247,4 @@ class NeuralThompsonAgent:
         loss.backward()
         # Gradient Clipping to prevent exploding gradients
         torch.nn.utils.clip_grad_norm_(self.model.parameters(), max_norm=1.0)
-        self.optimizer.step()
+        self.optimizer.step()# change 1 — Initial commit
