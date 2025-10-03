@@ -23,4 +23,4 @@ class PricingEnvironment:
         price = self.price_points[price_index]
         demand = self.true_demand(price)
         revenue = price * demand
-        return revenue
+        return revenue# change 3 — Add US flights dataset
