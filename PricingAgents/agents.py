@@ -109,3 +109,4 @@ class ThompsonAgent(BaseAgent):
         prec = 1.0 / (self.sigma_noise**2)
         self.A += prec * np.outer(phi, phi)
         self.b += prec * phi * demand
+# change 5 — Data Exploration & make state variable for RL
