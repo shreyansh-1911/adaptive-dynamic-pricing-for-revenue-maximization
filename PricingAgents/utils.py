@@ -118,3 +118,4 @@ def summarize_all(results: dict, baseline="static", oracle="oracle"):
         t, p = stats.ttest_rel(arr, results[baseline])
         gain = 100 * (arr.mean() - base_mean) / base_mean
         print(f"{name}: Capture={100 * cap_rate:.1f}%, Gain={gain:.2f}%, p={p:.4f}")
+# change 7 — Feature engineering steps
