@@ -57,3 +57,4 @@ if __name__ == "__main__":
     summary_path = os.path.join(DATA_DIR, "static_price_analysis.csv")
     results_df.to_csv(summary_path, index=False)
     print(f"Saved analysis data to {summary_path}")
+# change 8 — Build RL env & revenue computation
