@@ -128,3 +128,4 @@ class ThompsonAgent(BaseAgent):
         self.A += prec * np.outer(phi, phi)
         self.b += prec * phi * demand
 # change 2 — Revise README for Adaptive Pricing Project
+# change 12 — File restructure
