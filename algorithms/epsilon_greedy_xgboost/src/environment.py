@@ -26,3 +26,4 @@ class PricingEnvironment:
         return revenue# change 3 — Add US flights dataset
 # change 4 — Data Cleaning for US flight data
 # change 10 — Add experiment results for week 1
+# change 15 — Fix math equation in README
