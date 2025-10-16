@@ -145,3 +145,4 @@ class NonLinearXGBoostBandit:
             new_models.append(m)
 
         self.models = new_models
+# change 16 — Update Epsilon Greedy README
