@@ -26,4 +26,4 @@ class EpsilonGreedyAgent:
         self.counts[chosen_arm] += 1
         n = self.counts[chosen_arm]
         value = self.values[chosen_arm]
-        self.values[chosen_arm] = value + (reward - value) / n
+        self.values[chosen_arm] = value + (reward - value) / n# change 18 — Fix KaTeX issue
