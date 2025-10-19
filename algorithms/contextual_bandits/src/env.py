@@ -225,3 +225,4 @@ class PricingEnv:
 
         return self.curr_context, demand, revenue, done, info
 # change 6 — Decide quarter-wise representative routes
+# change 19 — Implement RL on normalized US Airway data
