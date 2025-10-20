@@ -146,3 +146,4 @@ class NonLinearXGBoostBandit:
 
         self.models = new_models
 # change 16 — Update Epsilon Greedy README
+# change 20 — Merge origin/main into dev
