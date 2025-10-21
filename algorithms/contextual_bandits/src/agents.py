@@ -130,3 +130,4 @@ class ThompsonAgent(BaseAgent):
 # change 2 — Revise README for Adaptive Pricing Project
 # change 12 — File restructure
 # change 13 — Add Epsilon Greedy XGBoost project
+# change 21 — Merge PR #1
