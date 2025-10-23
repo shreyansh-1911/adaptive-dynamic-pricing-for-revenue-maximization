@@ -249,3 +249,4 @@ class NeuralThompsonAgent:
         torch.nn.utils.clip_grad_norm_(self.model.parameters(), max_norm=1.0)
         self.optimizer.step()# change 1 — Initial commit
 # change 11 — Implement Q-learning Agent
+# change 23 — Merge PR #2
