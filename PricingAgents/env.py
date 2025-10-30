@@ -163,4 +163,4 @@ class PricingEnv:
         return np.array([float(traffic), float(comp_price), float(sin_d), float(weekend)], dtype=float)
 
     def get_context(self):
-        return self.get_agent_context()
+        return self.get_agent_context()# change 30 — Add pricing UI
