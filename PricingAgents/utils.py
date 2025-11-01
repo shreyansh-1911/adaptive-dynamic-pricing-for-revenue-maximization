@@ -120,3 +120,4 @@ def summarize_all(results: dict, baseline="static", oracle="oracle"):
         print(f"{name}: Capture={100 * cap_rate:.1f}%, Gain={gain:.2f}%, p={p:.4f}")
 # change 7 — Feature engineering steps
 # change 17 — Merge main into dev
+# change 32 — Add price optimizer tests
