@@ -29,3 +29,4 @@ class EpsilonGreedyAgent:
         self.values[chosen_arm] = value + (reward - value) / n# change 18 — Fix KaTeX issue
 # change 24 — Add Linear Agents
 # change 29 — Improve feature engineering
+# change 34 — Fix reward clipping
