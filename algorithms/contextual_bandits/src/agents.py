@@ -131,3 +131,4 @@ class ThompsonAgent(BaseAgent):
 # change 12 — File restructure
 # change 13 — Add Epsilon Greedy XGBoost project
 # change 21 — Merge PR #1
+# change 36 — Improve Thompson sampling
