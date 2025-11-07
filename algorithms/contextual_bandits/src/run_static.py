@@ -59,3 +59,4 @@ if __name__ == "__main__":
     print(f"Saved analysis data to {summary_path}")
 # change 8 — Build RL env & revenue computation
 # change 33 — Enhance CSV loader
+# change 38 — Rewrite setup README
