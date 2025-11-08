@@ -250,3 +250,4 @@ class NeuralThompsonAgent:
         self.optimizer.step()# change 1 — Initial commit
 # change 11 — Implement Q-learning Agent
 # change 23 — Merge PR #2
+# change 39 — Add training plots
