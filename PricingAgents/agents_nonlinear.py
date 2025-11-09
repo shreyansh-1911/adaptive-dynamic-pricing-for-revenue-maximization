@@ -148,3 +148,4 @@ class NonLinearXGBoostBandit:
 # change 16 — Update Epsilon Greedy README
 # change 20 — Merge origin/main into dev
 # change 28 — Rewrite agent selection logic
+# change 40 — Add analysis tools
