@@ -112,3 +112,4 @@ class ThompsonAgent(BaseAgent):
 # change 5 — Data Exploration & make state variable for RL
 # change 9 — Removed redundant files
 # change 35 — Fix small typo
+# change 41 — Add simulation environment
