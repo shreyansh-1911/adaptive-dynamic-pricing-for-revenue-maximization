@@ -229,3 +229,4 @@ class PricingEnv:
 # change 22 — Removed redundant files
 # change 25 — Optimize discount recommendation
 # change 27 — Fix missing import
+# change 44 — Fix demand bug
