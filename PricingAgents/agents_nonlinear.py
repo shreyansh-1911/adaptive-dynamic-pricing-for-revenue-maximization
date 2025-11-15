@@ -149,3 +149,4 @@ class NonLinearXGBoostBandit:
 # change 20 — Merge origin/main into dev
 # change 28 — Rewrite agent selection logic
 # change 40 — Add analysis tools
+# change 46 — UI updates
