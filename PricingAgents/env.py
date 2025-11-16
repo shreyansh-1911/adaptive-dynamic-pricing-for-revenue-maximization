@@ -165,3 +165,4 @@ class PricingEnv:
     def get_context(self):
         return self.get_agent_context()# change 30 — Add pricing UI
 # change 31 — Fix reward edge case
+# change 47 — Improve exploration policy
