@@ -30,3 +30,4 @@ class EpsilonGreedyAgent:
 # change 24 — Add Linear Agents
 # change 29 — Improve feature engineering
 # change 34 — Fix reward clipping
+# change 48 — Demand smoothing added
