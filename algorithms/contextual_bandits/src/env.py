@@ -230,3 +230,4 @@ class PricingEnv:
 # change 25 — Optimize discount recommendation
 # change 27 — Fix missing import
 # change 44 — Fix demand bug
+# change 49 — Improve config parsing
