@@ -29,3 +29,4 @@ class PricingEnvironment:
 # change 15 — Fix math equation in README
 # change 26 — Fix rounding issue
 # change 45 — Refactor revenue module
+# change 50 — Add Neural Thompson Agent
