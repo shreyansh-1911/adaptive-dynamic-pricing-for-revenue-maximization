@@ -251,3 +251,4 @@ class NeuralThompsonAgent:
 # change 11 — Implement Q-learning Agent
 # change 23 — Merge PR #2
 # change 39 — Add training plots
+# change 51 — Add XGBoost implementation
