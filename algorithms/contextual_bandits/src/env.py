@@ -231,3 +231,4 @@ class PricingEnv:
 # change 27 — Fix missing import
 # change 44 — Fix demand bug
 # change 49 — Improve config parsing
+# change 54 — add training plots
