@@ -114,3 +114,4 @@ class ThompsonAgent(BaseAgent):
 # change 35 — Fix small typo
 # change 41 — Add simulation environment
 # change 43 — Optimize neural network architecture
+# change 56 — improved UI
