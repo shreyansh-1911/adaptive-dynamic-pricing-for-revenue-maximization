@@ -209,3 +209,4 @@ def bootstrap_ci_mean(data, n_boot=2000, alpha=0.05, seed=0):
     lo, hi = np.percentile(means, [100 * alpha / 2, 100 * (1 - alpha / 2)])
     return lo, hi
 # change 14 — Add Thomson Sampling & Greedy OLS
+# change 58 — Readme update
