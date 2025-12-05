@@ -1,0 +1,31 @@
+# ——— Python cache ———
+__pycache__/
+*.py[cod]
+*.so
+
+# ——— Virtual environments ———
+venv/
+.env/
+.env*/
+.venv*/
+pip-wheel-metadata/
+
+# ——— Distribution / packaging ———
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# ——— IDE files ———
+.vscode/
+.idea/
+
+# ——— Jupyter ———
+.ipynb_checkpoints/
+
+# ——— OS junk ———
+.DS_Store
+Thumbs.db
+
+# ——— Logs ———
+*.log
